@@ -1,0 +1,6 @@
+.text-danger,
+.invalid-feedback,
+.valid-feedback {
+  text-align: start;
+  margin-left: 5px;
+}
